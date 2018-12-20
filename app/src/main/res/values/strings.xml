@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Final</string>
+
+    <string name="google_maps_api_key">AIzaSyCDyU9ggxsDxIv4__55MHTsG7SchHspbaw</string>
+
+    <string name="btn_restore">Restore Password</string>
+    <string name="btn_register">Register</string>
+    <string name="hint_et_email">Email</string>
+    <string name="hint_et_pass">Password</string>
+    <string name="checkbox_remember">Remember me</string>
+    <string name="btn_login">Sign In</string>
+    <string name="tv_restore">Forgot password?</string>
+    <string name="btn_facebook">Facebook Login</string>
+    <string name="btn_google">Google Login</string>
+    <string name="tv_register">No account yet? Create one</string>
+    <string name="hint_et_name">Name</string>
+    <string name="label_register_activity">Registration</string>
+    <string name="label_home">Home page</string>
+    <string name="label_restore_activity">Restore Password</string>
+    <string name="label_logout">Logout</string>
+    <string name="label_your_location">Your location is above</string>
+    <string name="label_last_login">Last login</string>
+
+    <string name="fb_login_success">Login with Facebook successful!</string>
+    <string name="login_fail">Login failed</string>
+    <string name="google_login_success">Login with Google successful!</string>
+    <string name="email_login_success">Login successful!</string>
+    <string name="register_success">Registration done!</string>
+    <string name="register_fail">Registration failed</string>
+    <string name="error_email">Enter a valid email</string>
+    <string name="error_pass">Enter a password</string>
+    <string name="restore_email_sent">Please check your email for an account restoration link.</string>
+    <string name="restore_email_fail">Restore email was not sent</string>
+</resources>
